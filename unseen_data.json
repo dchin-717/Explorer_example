@@ -1,0 +1,13 @@
+{
+    "category":"Groceries",
+    "primary_account_type":"checking",
+    "is_payfreq_undefined":false,
+    "is_digital_bank":true,
+    "txn_count":86.0,
+    "outflow_moving_average_std_28d":60.7307717659,
+    "inflow100_size_std_14d":0.0,
+    "inflow100_timegap_std":0.2362768712,
+    "days_from_last_inflow100":172.0,
+    "outflow150below_count_56d":2,
+    "revenue":5.6369134324
+}
